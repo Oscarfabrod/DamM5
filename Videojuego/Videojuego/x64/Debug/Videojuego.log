@@ -1,0 +1,13 @@
+﻿  Videojuego.cpp
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(11,10): warning C4101: 'characterAtk': variable local sin referencia
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(21,10): warning C4101: 'bossAtk1': variable local sin referencia
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(24,10): warning C4101: 'bossAtk2': variable local sin referencia
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(13,10): warning C4101: 'characterAtkMagia': variable local sin referencia
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(167,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(168,32): error C2144: error de sintaxis: 'int' debe estar precedido de ')'
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(168,24): error C2660: 'horaatk': la función no acepta 0 argumentos
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(48,7): message : vea la declaración de 'horaatk'
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(168,24): message : al hacer coincidir la lista de argumentos '()'
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(168,32): error C2144: error de sintaxis: 'int' debe estar precedido de ';'
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(168,45): error C2062: tipo 'int' inesperado
+D:\M5\Videojuego\Videojuego\Videojuego.cpp(170,82): error C2059: error de sintaxis: ')'
