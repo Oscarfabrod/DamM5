@@ -1,0 +1,3 @@
+﻿  BlackJack.cpp
+C:\Users\oscarfabrod\OneDrive - Centre d'Estudis Monlau\M5\BlackJack\BlackJack\BlackJack.cpp(169,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  BlackJack.vcxproj -> C:\Users\oscarfabrod\OneDrive - Centre d'Estudis Monlau\M5\BlackJack\x64\Debug\BlackJack.exe
