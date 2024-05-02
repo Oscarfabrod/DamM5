@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B45C2D-6820-40E0-A804-C6DEC30738CD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\Enemigo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B45C2D-6820-40E0-A804-C6DEC30738CD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Enemigo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B45C2D-6820-40E0-A804-C6DEC30738CD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B45C2D-6820-40E0-A804-C6DEC30738CD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B45C2D-6820-40E0-A804-C6DEC30738CD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\Enemigo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3B45C2D-6820-40E0-A804-C6DEC30738CD}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\Enemigo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemigo.h",
+              "DocumentMoniker": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\Enemigo.h",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Enemigo.h",
+              "ToolTip": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\Enemigo.h",
+              "RelativeToolTip": "ConsoleApplication1\\Enemigo.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-02T11:13:24.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T11:11:44.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enemigo.cpp",
+              "DocumentMoniker": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\Enemigo.cpp",
+              "RelativeDocumentMoniker": "ConsoleApplication1\\Enemigo.cpp",
+              "ToolTip": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\ConsoleApplication1\\ConsoleApplication1\\Enemigo.cpp",
+              "RelativeToolTip": "ConsoleApplication1\\Enemigo.cpp",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAADkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-02T11:13:31.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
