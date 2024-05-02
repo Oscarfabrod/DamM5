@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\funcionesestatica\\",
+  "WorkspaceRootPath": "C:\\Users\\oscarfabrod\\Documents\\DamM5\\funcionesestatica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4A70DA6-9A39-42F8-AE00-BF588F741569}|funcionesestatica\\funcionesestatica.vcxproj|C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\funcionesestatica\\funcionesestatica\\funcionesestatica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E4A70DA6-9A39-42F8-AE00-BF588F741569}|funcionesestatica\\funcionesestatica.vcxproj|solutionrelative:funcionesestatica\\funcionesestatica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscarfabrod\\Documents\\DamM5\\funcionesestatica\\funcionesestatica\\funcionesestatica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:funcionesestatica\\funcionesestatica.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\funcionesestatica\\funcionesestatica\\funcionesestatica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\oscarfabrod\\Documents\\DamM5\\funcionesestatica\\funcionesestatica\\funcionesestatica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:funcionesestatica\\funcionesestatica.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "funcionesestatica.cpp",
-              "DocumentMoniker": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\funcionesestatica\\funcionesestatica\\funcionesestatica.cpp",
+              "DocumentMoniker": "C:\\Users\\oscarfabrod\\Documents\\DamM5\\funcionesestatica\\funcionesestatica\\funcionesestatica.cpp",
               "RelativeDocumentMoniker": "funcionesestatica\\funcionesestatica.cpp",
-              "ToolTip": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\funcionesestatica\\funcionesestatica\\funcionesestatica.cpp",
+              "ToolTip": "C:\\Users\\oscarfabrod\\Documents\\DamM5\\funcionesestatica\\funcionesestatica\\funcionesestatica.cpp",
               "RelativeToolTip": "funcionesestatica\\funcionesestatica.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "funcionesestatica.h",
-              "DocumentMoniker": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\funcionesestatica\\funcionesestatica\\funcionesestatica.h",
+              "DocumentMoniker": "C:\\Users\\oscarfabrod\\Documents\\DamM5\\funcionesestatica\\funcionesestatica\\funcionesestatica.h",
               "RelativeDocumentMoniker": "funcionesestatica\\funcionesestatica.h",
-              "ToolTip": "C:\\Users\\oscarfabrod\\OneDrive - Centre d\u0027Estudis Monlau\\M5\\funcionesestatica\\funcionesestatica\\funcionesestatica.h",
+              "ToolTip": "C:\\Users\\oscarfabrod\\Documents\\DamM5\\funcionesestatica\\funcionesestatica\\funcionesestatica.h",
               "RelativeToolTip": "funcionesestatica\\funcionesestatica.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-02-15T07:21:46.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-15T07:21:46.611Z"
             }
           ]
         }
