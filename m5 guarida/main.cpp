@@ -115,26 +115,26 @@ int main() {
 	}
 	while (!laberinto[10][3] )
 	{
+		
 		laberinto[1][3] = 0;
 		cout << "Para que direccion queres ir.";
 		cin << movi;
-		if (movi == "Arriba" )
+		if ((movi == "Arriba") && (laberinto[2, 3, 4, 5, 6, 7, 8, 9, 10][x]))
 		{
 			cout << " No puedes ";
 
-		} else if (movi == "Abajo")
+		} else if ((movi == "Abajo") && (laberinto[1, 2, 3, 4, 5, 6, 7, 8, 9][x]))
 		{
 			laberinto[1][3] = laberinto[1 + 1][3 + 0];
 		}
-		else if(movi == "Derecha")
+		else if((movi == "Derecha") && (laberinto [x][4]) || (laberinto[x][3]) || (laberinto[x][2]) || (laberinto[x][1]))
 		{
 			laberinto[1][3] = laberinto[1 + 0][3 + 1];
 		}
-		else if(movi == "Izquierda")
+		else if((movi == "Izquierda") && (laberinto[x][4]) || (laberinto[x][3]) || (laberinto[x][2]) || (laberinto[x][5]))
 		{
 			laberinto[1][3] = laberinto[1 + 0][3 - 1];
 		}
-		
 	}
 
 
